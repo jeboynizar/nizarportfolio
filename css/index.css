@@ -1,0 +1,14 @@
+#about {
+    display: flex;
+    justify-content: flex-start;
+}
+
+#portret {
+    height: 10rem;
+    background-image: url("../images/nizar.jpeg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10rem;
+    margin: 0 2rem 0 0;
+    border: lightgray solid 1px;
+}
